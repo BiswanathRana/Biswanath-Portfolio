@@ -49,7 +49,7 @@ Focused on **process optimization, production efficiency, and data-driven decisi
 ---
 
 ## 📜 Certifications  
-📂 [View Certificates](MY Drive Link)
+📂 [View Certificates](https://drive.google.com/drive/folders/1DWco8p1HAYg9kt89tRSHYt5z4B0SHTJF)
 
 ---
 
