@@ -51,7 +51,7 @@ Focused on **process optimization, production efficiency, and data-driven decisi
 ## 📜 Certifications  
 📂 📜 Certifications:
 - Degree Certificate: [View](link1)
-- Excel Certificate: [View](link2)(https://drive.google.com/drive/folders/1DWco8p1HAYg9kt89tRSHYt5z4B0SHTJF)
+- Excel Certificate: [View](https://drive.google.com/file/d/1Iqe4JcJSgCKUBSgsppWyHg4R3Y8JXdF5/view?usp=sharing)
 
 ---
 
