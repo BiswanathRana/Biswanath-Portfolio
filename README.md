@@ -107,7 +107,7 @@
 📧 **Personal:** biswanath.r1998@gmail.com  
 🏢 **Work:** biswanath.rana@saatvikgroup.com  
 📱 **Mobile:** +91 8436666403  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/BiswanathRana)
+🔗 **LinkedIn:** (https://www.linkedin.com/in/BiswanathRana)
 
 ---
 
