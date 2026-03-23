@@ -1,77 +1,111 @@
-# 👋 Hi, I'm Biswanath Rana  
+# 👋 Hi, I'm <span style="color:#00BFFF;">Biswanath Rana</span>  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=biswanathrana&color=blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 ![Industry](https://img.shields.io/badge/Industry-Solar%20Manufacturing-orange)
+![Role](https://img.shields.io/badge/Role-Assistant%20Manager-green)
 
-⚡ **Assistant Manager – Operations | Solar Manufacturing Professional**
-
----
-
-## 🚀 About Me  
-
-Operations & Process Engineer in the **solar cell & module manufacturing domain**, with hands-on experience in **PERC+, TOPCon & HJT technologies**.  
-
-Skilled in **process optimization, yield enhancement, defect reduction, and equipment/process troubleshooting** across cell and module production lines. Experienced in analyzing **process parameters, SPC trends, and root cause analysis (RCA)** to improve process stability and product quality.  
-
-Strong exposure to **shopfloor problem-solving, production data analysis, and continuous improvement methodologies** to achieve higher efficiency and reduced losses.  
-
-Focused on leveraging **engineering fundamentals and data-driven insights** to optimize manufacturing performance in high-volume production environments..  
+⚡ **<span style="color:#FFA500;">Assistant Manager – Operations | Solar Manufacturing Professional</span>**
 
 ---
 
-## 🎓📘Education📘🎓
-🎓 B.Tech Electrical Engineer - From MAKAUT University
-I am an engineering student with a strong academic background, holding a CGPA of 8.44. I have a deep interest in the fields of renewable energy and semiconductor materials, and I am passionate about building my career in this sector. Along with my academic knowledge, I have also gained practical exposure by working in the same industry, which has strengthened my technical understanding and real-world problem-solving skills.
-📘 MBA (Operations & Data Science) – From NMIMS University
-Currently, I am pursuing an MBA from NMIMS in Operations and Data Science Management. This program is helping me enhance my leadership capabilities, analytical thinking, and decision-making skills. I am particularly interested in data-driven operations and continuously work on improving my ability to analyze data, derive insights, and support strategic decisions.
+## 🚀 <span style="color:#1E90FF;">About Me</span>  
 
-I am a passionate and dedicated working professional with a strong inclination toward operations and data analysis. My MBA journey is further strengthening my ability to interpret data, create impactful presentations, and develop structured data sheets that support operational excellence.
+🔹 Operations & Process Engineer in the **solar cell & module manufacturing domain**  
+🔹 Hands-on experience in **PERC+ | TOPCon | HJT technologies**  
+🔹 Strong in **Process Optimization, Yield Improvement & Defect Reduction**  
 
-I aim to leverage my technical background and management skills to contribute effectively to organizational growth and continuous improvement
+💡 Experienced in:
+- 📊 **SPC Analysis & Production Data Monitoring**  
+- 🔍 **Root Cause Analysis (RCA) & Troubleshooting**  
+- ⚙ **Process Stability & Equipment Optimization**  
+- 📈 **Continuous Improvement (Lean Manufacturing)**  
+
+🎯 Focused on **data-driven decision making** to improve **efficiency, quality & productivity** in high-volume manufacturing environments.
+
 ---
 
-## 📄 Resume  
+## 🎓📘 <span style="color:#1E90FF;">Education</span>  
+
+### 🎓 <span style="color:#2E8B57;">B.Tech Electrical Engineering</span>  
+**MAKAUT University | CGPA: <span style="color:#FF4500;">8.44</span>**
+
+✔ Strong foundation in **Electrical Engineering**  
+✔ Passionate about **Renewable Energy ⚡ & Semiconductor Materials**  
+✔ Industry exposure with real-time **manufacturing experience**  
+
+---
+
+### 📘 <span style="color:#8A2BE2;">MBA (Operations & Data Science)</span>  
+**NMIMS University (Pursuing)**  
+
+📊 Enhancing:
+- Leadership & Strategic Thinking  
+- Data Analytics & Decision Making  
+- Operations & Process Management  
+
+🚀 Building expertise in:
+- Data Visualization  
+- Business Analytics  
+- Operational Excellence  
+
+---
+
+## 🏭 <span style="color:#FF8C00;">Industrial Projects</span>  
+
+### 🔹 Solar Process Improvement  
+✔ Reduced **PSG Rejection**  
+✔ Optimized **Chemical Consumption**  
+✔ Improved **Process Stability**  
+
+### 🔹 Data Analytics  
+📊 Developed **Production Dashboard (Excel)**  
+📉 Performed **Yield & Defect Analysis**  
+📈 Created **Performance Tracking System**  
+
+### 🔹 MBA Projects  
+🏗 Designed **Effective Drainage Layout**  
+📲 Built **QR-Based Feedback System**  
+
+---
+
+## 🛠 <span style="color:#20B2AA;">Core Skills</span>  
+
+💼 **Operations Management**  
+📊 **Data Analysis (Excel)**  
+🔍 **Root Cause Analysis (RCA)**  
+📈 **Process Improvement**  
+⚙ **Manufacturing Optimization**  
+
+---
+
+## 📜 <span style="color:#9370DB;">Certifications</span>  
+
+- 💻 Full Stack Developer:  
+  👉 [View Certificate](https://drive.google.com/drive/folders/1DWco8p1HAYg9kt89tRSHYt5z4B0SHTJF)
+
+- 📊 Excel Certification:  
+  👉 [View Certificate](https://drive.google.com/file/d/1Iqe4JcJSgCKUBSgsppWyHg4R3Y8JXdF5/view?usp=sharing)
+
+---
+
+## 📄 <span style="color:#FF4500;">Resume</span>  
+
 📥 [Download My Resume](./Biswanath_Rana_Resume.pdf)
 
 ---
 
-## 🏭 Industrial Projects  
+## 📫 <span style="color:#00CED1;">Contact Me</span>  
 
-### 🔹 Solar Process Improvement  
-✔ Reduced PSG rejection  
-✔ Improved chemical consumption  
-✔ Increased process stability  
-
-### 🔹 Data Analysis  
-📊 Production dashboard (Excel)  
-📉 Yield & defect analysis  
-📈 Performance tracking  
-
-### 🔹 MBA Projects  
-🏗 Effective Drainage Layout  
-📲 QR-Based Feedback System  
+📧 **Personal:** biswanath.r1998@gmail.com  
+🏢 **Work:** biswanath.rana@saatvikgroup.com  
 
 ---
 
-## 🛠 Skills  
-⚙ Operations Management  
-📊 Data Analysis (Excel)  
-🔍 Root Cause Analysis  
-📈 Process Improvement  
+## 🌟 <span style="color:#FFD700;">Career Vision</span>  
+
+🚀 To become a **data-driven operations leader** in the **solar & semiconductor industry**, driving **efficiency, innovation, and sustainable growth**.
 
 ---
 
-## 📜 Certifications  
-- Full Stack Devloper Certificate: [Click here to view the certificate](https://drive.google.com/drive/folders/1DWco8p1HAYg9kt89tRSHYt5z4B0SHTJF)
-- Excel Certificate: [Click here to view the certificate](https://drive.google.com/file/d/1Iqe4JcJSgCKUBSgsppWyHg4R3Y8JXdF5/view?usp=sharing)
-
----
-
-## 📫 Contact  
-📧 biswanath.r1998@gmail.com  
-🏢 biswanath.rana@saatvikgroup.com  
-
----
-
-⭐ *Open to opportunities in Operations, Manufacturing & Data Analytics*
+⭐ **Open to opportunities in Operations | Manufacturing | Data Analytics**
