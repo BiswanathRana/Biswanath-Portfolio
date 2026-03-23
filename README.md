@@ -82,16 +82,16 @@
 ## 📜 <span style="color:#9370DB;">Certifications</span>  
 
 - 🏅 **Six Sigma Black Belt Certified**
-  👉[View Certificate]([https://drive.google.com/drive/folders/1DWco8p1HAYg9kt89tRSHYt5z4B0SHTJF](https://drive.google.com/drive/folders/1-IrRueBBC_qmAALZRWQOn0lQDoVibEQx)
+  👉[View Certificate] ([https://drive.google.com/drive/folders/1DWco8p1HAYg9kt89tRSHYt5z4B0SHTJF](https://drive.google.com/drive/folders/1-IrRueBBC_qmAALZRWQOn0lQDoVibEQx)
   
   ✔ Expertise in **DMAIC, Process Optimization & Quality Improvement**
 
-  - 🏅 **Six Sigma Green Belt Certified**
+- 🏅 **Six Sigma Green Belt Certified**
   👉[View Certificate](https://drive.google.com/drive/folders/1-IrRueBBC_qmAALZRWQOn0lQDoVibEQx)
 
 - 💻 Full Stack Developer:  
   👉 [View Certificate](https://drive.google.com/drive/folders/1-IrRueBBC_qmAALZRWQOn0lQDoVibEQx)
-
+ 
 - 📊 Excel Certification:  
   👉 [View Certificate](https://drive.google.com/file/d/1Iqe4JcJSgCKUBSgsppWyHg4R3Y8JXdF5/view?usp=sharing)
 
