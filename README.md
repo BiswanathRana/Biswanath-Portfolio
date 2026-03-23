@@ -89,7 +89,7 @@
   👉 [View Certificate](https://drive.google.com/drive/folders/1-IrRueBBC_qmAALZRWQOn0lQDoVibEQx)
 
 - 💻 **Full Stack Developer**  
-  👉 [View Certificate](https://drive.google.com/drive/folders/1-IrRueBBC_qmAALZRWQOn0lQDoVibEQx)
+  👉 [View Certificate](https://drive.google.com/file/d/1hFTi17_l2ythOlAqowVb1B0caVxALlk_/view?usp=sharing)
 
 - 📊 **Excel Certification**  
   👉 [View Certificate](https://drive.google.com/file/d/1Iqe4JcJSgCKUBSgsppWyHg4R3Y8JXdF5/view?usp=sharing)
