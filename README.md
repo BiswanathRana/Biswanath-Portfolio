@@ -69,7 +69,7 @@
 ### 🔹 Power BI 📊 – Work Progress Monitoring Dashboard  
 
 <p align="center">
-  <img src="images/dashboard.png" width="800"/>
+  <img src="images/Work Progress.png" width="600"/>
 </p>
 
 🚀 Developed a **Power BI dashboard** to track and visualize work progress across multiple engineering work types.
