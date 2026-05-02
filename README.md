@@ -6,8 +6,9 @@
 ![Role](https://img.shields.io/badge/Role-Assistant%20Manager-green)
 
 ⚡ **<span style="color:#FFA500;">Assistant Manager – Operations | Solar Manufacturing Professional</span>**
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=800&lines=Solar+Manufacturing+Engineer;Process+Optimization+Expert;Data+Driven+Decision+Maker;Power+BI+Dashboard+Developer" />
+</p>
 
 ## 🚀 <span style="color:#1E90FF;">About Me</span>  
 
@@ -34,8 +35,6 @@
 ✔ Passionate about **Renewable Energy ⚡ & Semiconductor Materials**  
 ✔ Industry exposure with real-time **manufacturing experience**  
 
----
-
 ### 📘 <span style="color:#8A2BE2;">MBA (Operations & Data Science)</span>  
 **NMIMS University (Pursuing)**  
 
@@ -58,13 +57,34 @@
 ✔ Optimized **Chemical Consumption**  
 ✔ Improved **Process Stability**  
 
-### 🔹 Data Analytics  
-📊 Developed **Production Dashboard (Excel)**  
+### 🔹 Power BI 📊 – Production Dashboard
+📈 Yield Analysis  
 📉 Performed **Yield & Defect Analysis**  
-📈 Created **Performance Tracking System**  
+📈 Created **Performance Tracking System**   
 
-### 🔹 MBA Projects  
-🏗 Designed **Effective Drainage Layout**  
+### 🔹 Power BI 📊 – Work Progress Monitoring Dashboard  
+
+<p align="center">
+  <img src="images/dashboard.png" width="800"/>
+</p>
+
+🚀 Developed a **Power BI dashboard** to track and visualize work progress across multiple engineering work types.
+
+⚡ **Key Features:**
+- 📊 Scope vs Executed vs Balance tracking  
+- 📈 Executed % performance gauge  
+- 🥧 Executed vs Balance comparison  
+- 📉 Sub-work level progress analysis  
+- 🎯 Work Type slicer (Civil, Fire, PEX, BBT, UPW, etc.)
+
+🔍 **Insights Enabled:**
+✔ Quick identification of pending vs completed work  
+✔ Work-type-wise performance comparison  
+✔ Easy filtering for detailed analysis  
+✔ Visual tracking of execution progress
+
+
+### 🔹 MBA Projects   
 📲 Built **QR-Based Feedback System**  
 
 ---
@@ -72,7 +92,7 @@
 ## 🛠 <span style="color:#20B2AA;">Core Skills</span>  
 
 💼 **Operations Management**  
-📊 **Data Analysis (Excel)**  
+📊 **Data Analysis (Excel & PPT & Power BI)**  
 🔍 **Root Cause Analysis (RCA)**  
 📈 **Process Improvement**  
 ⚙ **Manufacturing Optimization**  
@@ -117,4 +137,19 @@
 
 ---
 
-⭐ **Open to opportunities in Operations | Manufacturing | Data Analytics**
+<div align="center">
+
+### ✨ Thanks for visiting my profile ✨  
+
+💼 Open for collaboration | 📊 Data Enthusiast | ⚡ Solar Manufacturing  
+
+<br>
+
+<a href="https://www.linkedin.com/in/BiswanathRana">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+</a>
+
+</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80" />
+</p>
