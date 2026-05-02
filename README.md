@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=35&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Biswanath+Rana;Assistant+Manager+-+Operations;Solar+Manufacturing+Professional;Power+BI+Dashboard+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Biswanath+Rana👋" />
 </p>
+
 <h3 align="center">⚡ Assistant Manager – Operations | Solar Manufacturing</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=biswanathrana&color=blue)
