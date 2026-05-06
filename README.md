@@ -4,12 +4,17 @@
 
 <h3 align="center">⚡ Assistant Manager – Operations | Solar Cell & Module Manufacturing</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=biswanathrana&color=blue)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
-![Industry](https://img.shields.io/badge/Industry-Solar%20Manufacturing-orange)
-![Role](https://img.shields.io/badge/Role-Assistant%20Manager-green)
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=biswanathrana&color=blue" />
 
+<img src="https://img.shields.io/badge/GitHub-Portfolio-black" />
+
+<img src="https://img.shields.io/badge/Industry-Solar%20Manufacturing-orange" />
+
+<img src="https://img.shields.io/badge/Role-Assistant%20Manager-green" />
+
+</p>
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=800&lines=Solar+Manufacturing+Engineer;Process+Optimization+Expert;Data+Driven+Decision+Maker;Power+BI+Dashboard+Developer" />
 </p>
 
